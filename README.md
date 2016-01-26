@@ -19,3 +19,9 @@ The Cloud9 IDE team
 
 ここを参考にした。
 http://qiita.com/hosomichi/items/4e508e804b0e50e7b6ec
+
+クローンしたら
+
+npm install
+
+npm test
